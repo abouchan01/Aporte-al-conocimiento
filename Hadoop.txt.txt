@@ -33,6 +33,7 @@ asegurarse de que no falle el
 procesamiento distribuido. Se
 almacenan múltiples copias de todos
 los datos de manera automática.
+
 ● Flexibilidad. A diferencia de las
 bases de datos relacionales, no tiene
 que procesar previamente los datos
@@ -193,3 +194,30 @@ estas instrucciones, ya que Hadoop
 se actualiza de manera constante con
 nuevos datos que no concuerdan con
 patrones definidos con anterioridad.
+
+
+
+Fuentes:
+
+¿Qué es Hadoop? – Amazon Web
+Services (AWS). (s. f.). Amazon Web
+Services, Inc. Recuperado 24 de
+septiembre de 2022, de
+https://aws.amazon.com/es/elasticmapr
+educe/details/hadoop/
+¿Qué es Hadoop? |. (s. f.). Google
+Cloud. Recuperado 24 de septiembre de
+
+2022, de
+
+https://cloud.google.com/learn/what-is-
+hadoop?hl=es
+
+Descubre por qué los big data y Hadoop
+parecen ser inseparables. (s. f.).
+Tableau. Recuperado 24 de septiembre
+de 2022, de
+
+https://www.tableau.com/es-
+mx/learn/articles/big-data-hadoop-
+explained
