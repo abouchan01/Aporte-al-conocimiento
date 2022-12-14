@@ -1,3 +1,6 @@
+¿Qué es Hadoop?
+
+
 Hadoop es una estructura de software de
 código abierto para almacenar datos y
 ejecutar aplicaciones en clústeres de
